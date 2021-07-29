@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializedObjectContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Objects>
+    <Object Guid="c4665a61-0015-4a38-aac6-429fb506a3de" />
+    <Object Guid="b5a6026e-5b7a-4fb8-85d2-dbba4a15071c" />
+    <Object Guid="094b100b-7655-4340-a686-b460c550c993" />
+    <Object Guid="fb4ed2b9-49b9-4637-8309-23cc912bb9ca" />
+    <Object Guid="d67d283d-a9f0-4f51-81ae-94adbcacdf06" />
+    <Object Guid="15f70237-04a1-477d-be90-a31535829fd3" />
+    <Object Guid="d6cbd867-7edf-4dcf-a2fc-7e8419e0efd6" />
+  </Objects>
+</SerializedObjectContainer>

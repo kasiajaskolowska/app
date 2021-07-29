@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TeklaStructuresModels>
+<TeklaStructuresModels>
+    <Model>
+        <Name>APP_KJ</Name>
+        <Designer></Designer>
+        <Description></Description>
+        <Version></Version>
+        <ProductVersion></ProductVersion>
+        <Environment></Environment>
+        <Language></Language>
+    </Model>
+    <Model>
+        <Name>APP_KJ.db1</Name>
+        <Designer> </Designer>
+        <Description> </Description>
+        <Version>2021</Version>
+        <ProductVersion></ProductVersion>
+        <Environment>blank_project</Environment>
+        <Language>plk</Language>
+    </Model>
+</TeklaStructuresModels>

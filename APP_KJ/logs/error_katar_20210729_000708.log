@@ -1,0 +1,57 @@
+ERROR:  29.07.2021 00:07:10 Failed to open database file plotdev.bin
+ERROR:  29.07.2021 00:07:13 Suffix not recognized:  
+ERROR:  29.07.2021 00:07:13 Element o tym samym kluczu zosta³ ju¿ dodany. processing AddToSelectedTask from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114
+ERROR:  29.07.2021 00:07:13 Element o tym samym kluczu zosta³ ju¿ dodany. processing CreateTask from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114
+ERROR:  29.07.2021 00:07:13 Element o tym samym kluczu zosta³ ju¿ dodany. processing ReloadTaskManager from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114
+ERROR:  29.07.2021 00:07:13 Element o tym samym kluczu zosta³ ju¿ dodany. processing RemoveFromSelectedTask from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114
+ERROR:  29.07.2021 00:07:13 Element o tym samym kluczu zosta³ ju¿ dodany. processing SelectRelatedTasks from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114
+ERROR:  29.07.2021 00:07:13 Element o tym samym kluczu zosta³ ju¿ dodany. processing ShowTaskPane from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114
+ERROR:  29.07.2021 00:07:13 Element o tym samym kluczu zosta³ ju¿ dodany. processing ShowTaskProperties from SiteManager.SiteManager, Tekla.Structures.SiteManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114
+ASSERT:  29.07.2021 00:09:24  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:24  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:24  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:24  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:24  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:31  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:31  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:31  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:31  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:31  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:32  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:32  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:32  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:32  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:32  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:34  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:34  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:34  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:34  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:34  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:35  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:35  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:35  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:35  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:35  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:36  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:36  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:36  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:36  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:36  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:37  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:37  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:37  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:37  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:09:37  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:27:38  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:27:38  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:27:38  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:27:38  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:27:38  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:29:20  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:29:20  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:29:20  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:29:20  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ASSERT:  29.07.2021 00:29:20  REASON: (!"Error in part coordinate system calculation"), File: E:\prod\ts-build\Core\Model\StructuralProductModel\libco_classes\co_part_i.cpp, Line: 153
+ERROR:  29.07.2021 01:16:57 Could not find UI name for plugin named Prêt zbrojeniowy
+ERROR:  29.07.2021 01:23:16 Could not find UI name for plugin named Element specjalny
+ERROR:  29.07.2021 01:25:24 Could not find UI name for plugin named Siatka

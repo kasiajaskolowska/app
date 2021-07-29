@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TeklaStructuresModels>
+<TeklaStructuresModels>
+    <Model>
+        <Name>APP_KJ</Name>
+        <Designer> </Designer>
+        <Description> </Description>
+        <Version>2021</Version>
+        <ProductVersion>2021.0</ProductVersion>
+        <Language>plk</Language>
+        <Template></Template>
+        <Environment>blank_project</Environment>
+        <IsTemplate>FALSE</IsTemplate>
+        <XS_PROJECT></XS_PROJECT>
+        <XS_FIRM></XS_FIRM>
+        <XS_SYSTEM>C:\ProgramData\Trimble\Tekla Structures\2021.0\\environments\blank_project\system\;C:\ProgramData\Trimble\Tekla Structures\2021.0\\environments\common\system\ConstructionManagement\;C:\ProgramData\Trimble\Tekla Structures\2021.0\\environments\common\syste</XS_SYSTEM>
+        <ConnectedId></ConnectedId>
+    </Model>
+</TeklaStructuresModels>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ImportPart version="1.0">
+    <Info>
+        <Name>_RknUdfH2EUSyWPHGCy_XvA_3</Name>
+        <BrepStorageId>91ddd2a5-8e6c-4745-ab41-c7b05026886a</BrepStorageId>
+        <Guid>b9a51f32-ef9a-4aca-aeaa-d779f8739026</Guid>
+        <Extrema>
+            <MinPoint X="6322" Y="-755" Z="-278"/>
+            <MaxPoint X="6878" Y="-50" Z="278"/>
+        </Extrema>
+        <BrepGeomType>1</BrepGeomType>
+        <BrepType>0</BrepType>
+        <Fingerprint>8.6.24.0-18418.833333333332</Fingerprint>
+    </Info>
+</ImportPart>

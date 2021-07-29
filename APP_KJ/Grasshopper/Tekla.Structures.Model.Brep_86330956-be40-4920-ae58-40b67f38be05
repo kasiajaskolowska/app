@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializedObjectContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Objects>
+    <Object Guid="74b1d3f4-d610-4868-9506-6761d67d39f8" />
+    <Object Guid="d7d2da96-e4a8-4cdc-b37c-6767558cde69" />
+    <Object Guid="de5e6d79-ef1b-4721-97bd-e5789945d90a" />
+  </Objects>
+</SerializedObjectContainer>

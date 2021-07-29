@@ -1,0 +1,8 @@
+Utworzony model pozwala na parametryczne tworzenie drewnianego ogrodzenia. 
+
+Do zmiany przez użytkownika są przekroje elementów drewnianych: postów i railsów, ilość i odległości między elementami oraz głębokość posadowienia.
+Wszystkie te wartości wynikają bezpośrednio z obliczeń konstrukcji drewnianej. 
+Model parametryczny ma na celu usprawnić tworzenie rysunków ogrodzeń oraz szybsze tworzenie rewizji.
+
+Cały model tworzy się automatyczie w Tekli Structues, pozwala to na stworzenie widoków i przekrojów bez konieczności rysowania  każdego elementu np. w Autocadzie.
+Aby model pojawił się w Tekli, najpierw należy otworzyć pusty projekt w Tekli, a następnie uruchomić Rhino.
